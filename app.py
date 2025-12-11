@@ -1,4 +1,4 @@
-pip joblib
+!pip joblib
 import streamlit as st
 import numpy as np
 import joblib
